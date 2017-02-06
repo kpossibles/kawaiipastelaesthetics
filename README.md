@@ -1,8 +1,7 @@
 # Kawaii Pastel Aesthetics
 ## Sublime Text theme for kawaii people
 
-｡･:*:･ﾟ★,｡･:*:･ﾟ☆
-
+### Let's go from (╯°□°）╯︵ ┻┻ to (◕‿◕✿)
 Cute, kawaii, and pink theme for Sublime Text, made using [tmTheme Editor](tmtheme-editor.herokuapp.com) after realizing that I could only find one cute theme for Sublime by @sailorhg [(Fairy Floss)](http://sailorhg.github.io/fairyfloss/). Not that perfect, but at least it's pink~
 
 <img src="kawaiipastelaesthetics-applied.png" />
@@ -10,7 +9,7 @@ Cute, kawaii, and pink theme for Sublime Text, made using [tmTheme Editor](tmthe
 ｡･:*:･ﾟ★,｡･:*:･ﾟ☆
 
 # Installation
-1. Download the theme [HERE]()
+1. Download the theme [HERE](https://raw.githubusercontent.com/kpossibles/kawaiipastelaesthetics/master/Kawaii%20Pastel%20Aesthetics.tmTheme)
 2. In Sublime Text, go to Preferences -> Browse Packages...
 3. In the window that popped up, drag this theme into the folder.
 4. Choose the theme using Preferences -> Color Scheme -> Kawaii Pastel Aesthetics
